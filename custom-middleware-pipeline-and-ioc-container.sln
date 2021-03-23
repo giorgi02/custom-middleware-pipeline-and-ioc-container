@@ -3,9 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30621.155
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "custome-ioc-container", "custome-ioc-container\custome-ioc-container.csproj", "{06875FF2-2AA8-4F0D-9506-8ADC1807EA8D}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "custom-middleware-pipeline", "custom-middleware-pipeline\custom-middleware-pipeline.csproj", "{1E0A94D2-476A-49DB-8697-2122EB1D599A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "custome-ioc-container", "custome-ioc-container\custome-ioc-container.csproj", "{06875FF2-2AA8-4F0D-9506-8ADC1807EA8D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -17,10 +15,6 @@ Global
 		{06875FF2-2AA8-4F0D-9506-8ADC1807EA8D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{06875FF2-2AA8-4F0D-9506-8ADC1807EA8D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{06875FF2-2AA8-4F0D-9506-8ADC1807EA8D}.Release|Any CPU.Build.0 = Release|Any CPU
-		{1E0A94D2-476A-49DB-8697-2122EB1D599A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{1E0A94D2-476A-49DB-8697-2122EB1D599A}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{1E0A94D2-476A-49DB-8697-2122EB1D599A}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{1E0A94D2-476A-49DB-8697-2122EB1D599A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
